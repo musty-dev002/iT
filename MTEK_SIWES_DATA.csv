@@ -1,0 +1,31 @@
+ID,Student,University,Department,Gender,Attendance %,Score
+1,Musa,ADSU,Computer Science,M,75,82
+2,Aisha,ADSU,Statistics,F,85,78
+3,John,AUN,Computer Science,M,45,45
+4,Fatima,ADSU,Economics,F,95,88
+5,Ibrahim A,FPM,Computer Science,M,80,72
+6,Mary,AUN,Accounting,F,75,68
+7,Ahmed,FPM,Computer Science,M,92,85
+8,Grace,ADSU,Statistics,F,80,80
+9,Peter,AUN,Economics,M,55,55
+10,Zainab,FPM,Accounting,F,98,91
+11,Yusuf,ADSU,Computer Science,M,70,79
+12,Sarah,AUN,Statistics,F,82,76
+13,Ali,FPM,Economics,M,73,63
+14,Halima,ADSU,Accounting,F,94,89
+15,Daniel,AUN,Computer Science,M,60,60
+16,Isa,ADSU,Computer Science,M,85,85
+17,Abba,ADSU,Computer Science,M,25,20
+18,Ibee,ADSU,Computer Science,M,80,85
+19,Belel,ADSU,Computer Science,M,70,80
+20,Ishaq,ADSU,Computer Science,M,75,74
+21,Ameena,ADSU,Computer Science,F,67,84
+22,Ibrahim,ADSU,Computer Science,M,54,74
+23,Franklin,FPM,Statistics,M,90,65
+24,Josiah,ADSU,Computer Science,M,18,20
+25,Abdulsalam,AUN,Computer Science,M,50,54
+26,Simon,ADSU,Computer Science,M,85,80
+27,Mahmud,FPM,Computer Science,M,51,54
+28,Yunusa,AUN,Accounting,M,49,54
+29,AbdulHadi,ADSU,Computer Science,M,51,54
+30,Ishaga,ADSU,Computer Science,M,50,54
